@@ -5,12 +5,14 @@
 damn();
 
 int main(){
-
+git
     int wo4w = damn(6);
     printf("%d", wo4w);
     return 0;
 
     wow("lmfaooo");
+
+    int woer = 345;
 }
 
 int damn(int wow){
